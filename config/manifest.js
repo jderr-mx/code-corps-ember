@@ -6,9 +6,9 @@ module.exports = function(/* environment, appConfig */) {
   // supported properties
 
   return {
-    name: "code-corps-ember",
-    short_name: "code-corps-ember",
-    description: "",
+    name: "Code Corps - Build a better future",
+    short_name: "Code Corps",
+    description: "Contribute to open source projects for social good",
     start_url: "/",
     display: "standalone",
     background_color: "#fff",
